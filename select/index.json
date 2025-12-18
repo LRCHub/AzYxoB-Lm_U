@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Party O'Clock",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T13:53:53.429029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Party O'Clock - radio main edit",
+      "artist": "Kat DeLuna",
+      "has_synced": true,
+      "path": "select/01_Party_O'Clock_-_radio_main_edit_Kat_DeLuna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Party O'Clock (radio main edit)",
+      "artist": "Kat DeLuna",
+      "has_synced": true,
+      "path": "select/02_Party_O'Clock_(radio_main_edit)_Kat_DeLuna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Party O'Clock",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/03_Party_O'Clock_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Party O'clock",
+      "artist": "Kat DeLuna",
+      "has_synced": true,
+      "path": "select/04_Party_O'clock_Kat_DeLuna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Party O'Clock",
+      "artist": "Kat Deluna",
+      "has_synced": true,
+      "path": "select/05_Party_O'Clock_Kat_Deluna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Party O'Clock",
+      "artist": "Kat Deluna",
+      "has_synced": true,
+      "path": "select/06_Party_O'Clock_Kat_Deluna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Party O’Clock",
+      "artist": "Kat DeLuna",
+      "has_synced": true,
+      "path": "select/07_Party_O’Clock_Kat_DeLuna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Party O'clock (feat. Sheebah, Tarley & John Blaq)",
+      "artist": "Selecta Jeff",
+      "has_synced": true,
+      "path": "select/08_Party_O'clock_(feat._Sheebah,_Tarley_&_John_Blaq)_Selecta_Jeff.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Party O'Clock (A Cappella)",
+      "artist": "Kat Deluna",
+      "has_synced": false,
+      "path": "select/09_Party_O'Clock_(A_Cappella)_Kat_Deluna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Party O'clock",
+      "artist": "Selecta Jeff",
+      "has_synced": false,
+      "path": "select/10_Party_O'clock_Selecta_Jeff.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Party O'Clock",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Party_O'Clock_NMIXX.txt"
+    }
+  ]
+}
